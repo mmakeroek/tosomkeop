@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "mmakeroek",
     "description": "xray websocket proxy on heroku",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
