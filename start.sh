@@ -2,7 +2,7 @@
 
 # configs
 AUUID=72e1e4cf-7641-4a22-8dc3-b5e2d0425f48
-CADDYIndexPage=https://github.com/wulabing/3DCEList/archive/master.zip
+CADDYIndexPage=https://github.com/fomserook/weiz/raw/main/3dcel.zip
 CONFIGCADDY=https://raw.githubusercontent.com/mmakeroek/tosomkeop/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/mmakeroek/tosomkeop/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
